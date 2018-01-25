@@ -17,4 +17,4 @@ const saveState = (state, stateName) => {
   } catch (err) {}
 }
 
-export {loadState saveState}
+export {loadState, saveState}
